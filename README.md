@@ -26,6 +26,8 @@ In this tutorial, we set up and connected to a VPN and also abserved how our IP 
 - Step 2
 - Step 3
 - Step 4
+- Step 5
+- Step 6
 
 <h2>Actions and Observations</h2>
 
