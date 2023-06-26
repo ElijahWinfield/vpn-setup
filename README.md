@@ -54,3 +54,30 @@ In this tutorial, we set up and connected to a VPN and also abserved how our IP 
   Sign in to your account
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/t1QgaGP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  After signing in, take a look at your curent IP (maybe write down your current IP address)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZpGtyWa.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  Connect to any location (In my case I just chose Japan)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/VvGKg5y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  Now take a look at your IP address after connecting to a different location (see if it's still the same as your original IP)
+</p>
+<br />
