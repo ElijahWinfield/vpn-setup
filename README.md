@@ -2,26 +2,23 @@
 <img src="https://i.imgur.com/b6PvNOi.jpg alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>VPN Setup and usage within Azure</h1>
+In this tutorial, we set up and connected to a VPN and also abserved how our IP changes after connecting to it. <br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (1 Virtual Machine)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Proton VPN
+
+
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 10 (22H2)
 
 <h2>High-Level Steps</h2>
 
